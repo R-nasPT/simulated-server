@@ -1,0 +1,63 @@
+LIBRARY IN REACT.JS
+Front End
+- react-router-dom, 
+- react-hook-form,
+- @tanstack/react-query
+- react-icons | lucide,
+- axios | use-axios-client
+- @reduxjs/toolkit | react-redux
+- zustand,
+- react-select,
+- react-animate-height (dropdownSlide),
+- react-burger-menu (sidebar)
+- react-helmet (metadata),
+- chart.js,
+- react-content-loader (https://skeletonreact.com/),
+- react-beautiful-dnd | (react-dnd && react-dnd-html5-backend) ไลบรารีสำหรับการจัดการลากและวางองค์ประกอบใน React,
+- react-reveal | react-awesome-reveal | ScrollReveal 
+
+animation
+- gsap[GreenSock],
+- Framer Motion,
+- React Spring
+
+text animate
+- react-type-animation,
+- react-random-reveal,
+- react-countup
+- react-text-loop | react-text-loop-next
+- react-fast-marquee
+- react-fade-in
+
+multiple hooks
+- react-use,
+- @uidotdev/usehooks
+- usehooks-ts
+
+=============================================
+
+Back End
+Both
+- dotenv
+- express, 
+- cors,  
+JS
+- nodemon,
+TS
+- @types/express
+- typescript & ts-node
+- ts-node-dev
+- @types/cors
+
+=============================================
+
+JWT : 
+- front(jwt-decode),
+- back(bcrypt,jsonwebtoken)
+
+socket.io : 
+- front(socket.io-client),
+- back(socket.io)
+
+create secret key :
+- node -e "console.log(require('crypto').randomBytes(256).toString('base64'));”
