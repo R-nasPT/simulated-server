@@ -2,6 +2,7 @@ LIBRARY IN REACT.JS
 Front End
 - react-router-dom, 
 - react-hook-form,
+- yup | zod | joi | ajv
 - @tanstack/react-query
 - react-icons | lucide,
 - axios | use-axios-client
