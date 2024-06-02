@@ -54,7 +54,7 @@ TS
 
 Authentication : 
 - front ==> jwt-decode,
-- back ==> bcrypt | bcryptjs ,jsonwebtoken
+- back ==> (bcrypt & @types/bcrypt) | (bcryptjs & @types/bcryptjs) | bcrypt-ts , jsonwebtoken
 
 socket.io : 
 - front(socket.io-client),
