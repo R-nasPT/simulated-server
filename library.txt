@@ -13,7 +13,7 @@ Front End
 - react-animate-height (dropdownSlide),
 - react-burger-menu (sidebar)
 - react-helmet (metadata),
-- chart.js,
+- chart.js & react-chartjs-2,
 - react-content-loader (https://skeletonreact.com/),
 - react-beautiful-dnd | (react-dnd && react-dnd-html5-backend) ไลบรารีสำหรับการจัดการลากและวางองค์ประกอบใน React,
 - react-reveal | react-awesome-reveal | ScrollReveal 
