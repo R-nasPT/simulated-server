@@ -8,6 +8,7 @@ Front End
 - axios | use-axios-client
 - @reduxjs/toolkit | react-redux
 - zustand,
+- lodash & @types/lodash
 - react-select,
 - react-animate-height (dropdownSlide),
 - react-burger-menu (sidebar)
