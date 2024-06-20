@@ -57,6 +57,13 @@ Authentication :
 - front ==> jwt-decode,
 - back ==> (bcrypt & @types/bcrypt) | (bcryptjs & @types/bcryptjs) | bcrypt-ts , (@types/jsonwebtoken
  & jsonwebtoken)
+- (Tips Simple) ==> jose
+
+
+Encrypt/Decrypt :
+- crypto-js & @types/crypto-js
+- libsodium-wrappers & @types/libsodium-wrappers
+- (Tips Simple) ==> cryptr, node-encryption
 
 socket.io : 
 - front(socket.io-client),
