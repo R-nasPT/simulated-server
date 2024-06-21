@@ -42,6 +42,7 @@ Tailwind Support
 - classix  <-- fastest
 - classnames
 ( twMerge + clsx = cn )
+- class-variance-authority
 
 =============================================
 
