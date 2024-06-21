@@ -36,6 +36,13 @@ multiple hooks
 - @uidotdev/usehooks
 - usehooks-ts
 
+Tailwind Support
+- tailwind-merge
+- clsx
+- classix  <-- fastest
+- classnames
+( twMerge + clsx = cn )
+
 =============================================
 
 Back End
