@@ -42,7 +42,9 @@ Tailwind Support
 - classix  <-- fastest
 - classnames
 ( twMerge + clsx = cn )
+- tailwind-variants
 - class-variance-authority
+- windstitch
 
 =============================================
 
